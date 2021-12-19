@@ -1,0 +1,23 @@
+football_league Table:
+1,FIFA,2017,
+2,UEFA,2021,
+3,EFL,2021,
+5,UEFA,2019,
+
+football_team Table:
+101,Manchester,Ole Gunner,Harry Maguire,11,Manchester United,1,
+102,Liverpool,Jurgen Klopp,Jordan henderson,11,UEFA,2,
+103,Chelsea,Thomas Tuchel,Cesar,11,UEFA,3,
+
+game_played Table:
+21,Chelsea,12/09/2021,won,101,
+22,Manchester United,14/09/2021,lost,102,
+23,Liverpool,16/09/2021,draw,103,
+24,Chelsea,21/08/2020,won,101,
+
+game_played Table:
+21,Chelsea,12/09/2021,won,101,
+22,Manchester United,14/09/2021,lost,102,
+23,Liverpool,16/09/2021,draw,103,
+24,Chelsea,21/08/2020,won,101,
+
